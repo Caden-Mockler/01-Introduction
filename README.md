@@ -1,5 +1,11 @@
 # 01-Introduction
 
+-----------------------------------------------------
+WHAT I DID:
+Shared information using print command and adding text within the paranthesis and apostrophes. Added a question and responses using a similar path to the former assignment  in main10. Except I couldnt figure a way of repeating.  
+
+
+-----------------------------------------------------
 Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
 
 Write a Python program that displays answers to the following questions:
